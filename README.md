@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work. Adding a new line here
 
- for rebasing## Purpose
+ for rebasing,then more changes from myfeature branch too## Purpose
 
 Sample website with plenty of files for demos
 ### Introduction website to work with git
