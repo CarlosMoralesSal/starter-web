@@ -11,3 +11,5 @@ This is a sample about how to work with git
 more and more
 ##### How to contribute
 more and mre and more
+#### Copyright
+2018
