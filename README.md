@@ -12,4 +12,4 @@ more and more
 ##### How to contribute
 more and mre and more
  Please fork this repository#### Copyright
-2018
+2018 All right reserved
